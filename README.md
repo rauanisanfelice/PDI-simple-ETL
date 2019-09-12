@@ -54,3 +54,12 @@ Conecte no Banco com os seguintes parametros:
 Copie os dados do arquivo a baixo e execute no banco:
 > conn_query.sql
 
+### Executando a transformação;
+
+1. Inicie o PDI (spoon.bt ou spoon.sh);
+2. Abra o arquivo de transformação (Exemple_join_table.ktr);
+3. Execute a transformação;
+
+### Links;
+
+[Download PDI](https://sourceforge.net/projects/pentaho/files/Data%20Integration/)
